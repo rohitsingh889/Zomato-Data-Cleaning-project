@@ -50,117 +50,7 @@ The following steps are performed in this project:
 
 ---
 
-Pandas Functions Used...>
 
-In this project, the following pandas functions and methods were extensively used to clean and prepare the Zomato dataset:
-
-1. Loading & Inspecting Data
-
-pd.read_csv('file.csv') – Load CSV file into a DataFrame
-
-df.head(n) – View first n rows
-
-df.tail(n) – View last n rows
-
-df.info() – Summary of columns, data types, and non-null counts
-
-df.describe() – Statistical summary of numeric columns
-
-df.shape – Get number of rows and columns
-
-df.columns – List column names
-
-2. Selecting & Accessing Data
-
-df['column'] or df.column – Select a single column
-
-df[['col1', 'col2']] – Select multiple columns
-
-df.iloc[row_index, col_index] – Select by position
-
-df.loc[row_label, col_label] – Select by label
-
-3. Cleaning & Transforming Columns
-
-df.rename(columns={'old':'new'}) – Rename columns
-
-df.columns.str.strip() – Remove whitespace from column names
-
-df['column'].str.strip() – Remove whitespace from text data
-
-df['column'].str.lower() / .str.upper() – Convert text to lower/upper case
-
-df['column'].str.replace('old','new') – Replace text in a column
-
-df['column'].astype(type) – Change column data type
-
-4. Handling Missing Values
-
-df.isnull() – Identify NaN values
-
-df.isnull().sum() – Count missing values per column
-
-df.dropna() – Remove rows with missing values
-
-df.fillna(value) – Fill NaN values
-
-5. Handling Duplicates
-
-df.duplicated() – Detect duplicate rows
-
-df.drop_duplicates() – Remove duplicate rows
-
-6. Filtering & Conditional Selection
-
-df[df['column'] > value] – Filter rows by condition
-
-df[df['column'].isin([list_of_values])] – Filter rows by list
-
-df.query("column > value & column2 == 'text'") – Conditional selection
-
-7. Sorting & Reordering
-
-df.sort_values(by='column', ascending=True) – Sort rows
-
-df.reset_index(drop=True) – Reset row indices
-
-df.drop(columns=['col1','col2']) – Drop unwanted columns
-
-8. Aggregation & Summary
-
-df['column'].value_counts() – Count unique values
-
-df['column'].unique() – List unique values
-
-df['column'].nunique() – Count distinct values
-
-df['column'].mode() / .median() / .mean() / .min() / .max() – Summary statistics
-
-9. Text & String Operations
-
-df['column'].str.contains('text') – Check if text exists
-
-df['column'].str.len() – Length of strings
-
-df['column'].str.split(',') – Split text by delimiter
-
-df['column'].str.join(',') – Join list of strings
-
-10. Saving Cleaned Data
-
-df.to_csv('cleaned_file.csv', index=False) – Save DataFrame as CSV
-
-df.to_excel('file.xlsx', index=False) – Save DataFrame as Excel
-
-11. Miscellaneous
-
-df.copy() – Create a copy of the DataFrame
-
-df.sample(n=5) – Random sample of rows
-
-df.apply(function) – Apply function to column/row
-
-df.applymap(function) – Apply function element-wise
 
 
 
@@ -196,4 +86,7 @@ For more content on Python, pandas, and data analysis projects, connect with me:
 
 
  **LinkedIn:** [Connect with me professionally](https://www.linkedin.com/in/rohit-raj-singh-3030172a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+ **LinkedIn:** 
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/rohit-raj-singh-3030172a4/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
