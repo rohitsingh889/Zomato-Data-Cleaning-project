@@ -4,6 +4,8 @@
 This project focuses on **cleaning the Zomato dataset** to prepare it for further analysis. It involves removing duplicates, handling missing values, renaming columns, and other transformations to make the dataset analysis-ready.
 
 ---
+![Zomato_Logo](https://github.com/rohitsingh889/Zomato-Data-Cleaning-project/blob/main/image.png)
+
 
 ## About Dataset
 The dataset contains detailed information about restaurants, including:
