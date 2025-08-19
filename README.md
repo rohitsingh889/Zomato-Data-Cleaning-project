@@ -86,7 +86,4 @@ For more content on Python, pandas, and data analysis projects, connect with me:
 
 
  **LinkedIn:** [Connect with me professionally](https://www.linkedin.com/in/rohit-raj-singh-3030172a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
- **LinkedIn:** 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/rohit-raj-singh-3030172a4/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-
+ 
