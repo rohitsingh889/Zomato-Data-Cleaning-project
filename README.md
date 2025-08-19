@@ -55,3 +55,29 @@ The following steps are performed in this project:
 
 ---
 
+
+Author,
+
+Rohit Raj Singh
+
+This project is part of my portfolio, demonstrating practical Python and pandas skills applied to a real-world dataset from Zomato. It showcases essential data cleaning techniques, including:
+
+Handling missing values and NaNs
+
+Removing duplicates and redundant columns
+
+Renaming and standardizing column names
+
+Cleaning and transforming text and numerical data
+
+Preparing the dataset for analysis and further processing
+
+This work reflects the kind of data wrangling and preprocessing expertise that is crucial for data analyst, data engineer, and business intelligence roles.
+
+If you have any questions, suggestions, or collaboration ideas, I’d love to hear from you—feel free to reach out!
+
+For more content on Python, pandas, and data analysis projects, connect with me:
+
+
+ **LinkedIn:** [Connect with me professionally](https://www.linkedin.com/in/rohit-raj-singh-3030172a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
